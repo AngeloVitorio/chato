@@ -1,0 +1,12 @@
+/*MODIFICAÇÕES NO MATERIALIZE*/
+#icu {
+    width: 140px;
+    left: 0px;
+}
+/*ESTILO DE TEXTO*/
+#til {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+position: absolute;
+left: 60px;
+}
